@@ -1,1 +1,1 @@
-# BrainWave-reader
+# BrainWave Reader
