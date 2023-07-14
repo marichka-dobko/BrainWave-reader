@@ -9,5 +9,5 @@ Reading brain waves with Neco Mimi sensor while watching videos. Measuring the f
 Example of results comparison.
 
 <p>
-  <img src="./spectrogram.png"/ width='350' height='150'>
+  <img src="./spectrogram.png"/ width='350' height='200'>
 </p>
