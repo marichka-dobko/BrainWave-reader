@@ -1,1 +1,1 @@
-# BrainWave Reader
+# Reading Brain Waves 
